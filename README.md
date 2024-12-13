@@ -21,6 +21,7 @@ The introductory page welcomes users with a brief explanation of the website’s
 ### 2. **Home Page 🏠**
 The homepage provides a detailed overview of the website’s purpose, offering a seamless and user-friendly navigation experience. From here, users can access all other pages easily.  
 ![Home Page](https://github.com/AHMAD-JX/Website-HealthHup/blob/57e2e502f7eb4002334bb3721a9fcd8dd005cbc6/assets/home.gif)
+- ![Index Page](https://github.com/AHMAD-JX/Website-HealthHup/blob/57e2e502f7eb4002334bb3721a9fcd8dd005cbc6/assets/home.gif)
 
 ### 3. **Services Page 🏥**
 This page highlights the range of services offered by HealthHup, including useful medical tools, resources, and features designed to improve health management.  
