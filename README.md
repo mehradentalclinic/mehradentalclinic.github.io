@@ -16,19 +16,19 @@ HealthHup is a modern and interactive health and medical platform designed to pr
 
 ### 1. **Intro Page 🚀**
 The introductory page welcomes users with a brief explanation of the website’s concept, designed to be visually appealing and engaging. It leads users directly to the main homepage.  
-![Intro Page](path_to_gif_or_image.gif)
+![Intro Page](https://github.com/AHMAD-JX/Website-HealthHup/blob/57e2e502f7eb4002334bb3721a9fcd8dd005cbc6/assets/intro.gif)
 
 ### 2. **Home Page 🏠**
 The homepage provides a detailed overview of the website’s purpose, offering a seamless and user-friendly navigation experience. From here, users can access all other pages easily.  
-![Home Page](path_to_gif_or_image.gif)
+![Home Page](https://github.com/AHMAD-JX/Website-HealthHup/blob/57e2e502f7eb4002334bb3721a9fcd8dd005cbc6/assets/home.gif)
 
 ### 3. **Services Page 🏥**
 This page highlights the range of services offered by HealthHup, including useful medical tools, resources, and features designed to improve health management.  
-![Services Page](path_to_gif_or_image.gif)
+![Services Page](https://github.com/AHMAD-JX/Website-HealthHup/blob/57e2e502f7eb4002334bb3721a9fcd8dd005cbc6/assets/service.gif)
 
 ### 4. **Application Page 📲**
 A dedicated page where users can download the mobile app for both Android and iOS, bringing the platform's services to their fingertips.  
-![Application Page](path_to_gif_or_image.gif)
+![Application Page](https://github.com/AHMAD-JX/Website-HealthHup/blob/57e2e502f7eb4002334bb3721a9fcd8dd005cbc6/assets/appication.gif)
 
 ### 5. **And More... 🔍**
 Discover the rest of the website’s features and pages, each designed with usability and accessibility in mind. We encourage users to explore the platform to uncover all its capabilities!
