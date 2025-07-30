@@ -266,7 +266,8 @@ figure {
     
     font-size: 1.8rem;
     line-height: 1.5rem;
-    font-weight: 800
+    font-weight: 800;
+    white-space: nowrap;
 }
 
 .navigation__logo-logomark-static {

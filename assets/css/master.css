@@ -760,7 +760,7 @@ img {
 }
 
 .navigation__logo-title {
-    
+    white-space: nowrap;
     font-size: 1.8rem;
     line-height: 1.5rem;
     font-weight: 800
@@ -7576,6 +7576,10 @@ img {
     position: absolute;
     bottom: 0;
     right: 0;
+    width: auto;  /* Allow natural image width */
+    height: 38vh; /* Make height relative to viewport */
+    max-height: 1300px; /* Optional: Set maximum height */
+    object-fit: contain; /* Prevent distortion */
 }
 
 @media only screen and (min-width: 1400px) and (max-width: 1919px) {
@@ -7620,7 +7624,7 @@ img {
     bottom: 0;
     -o-object-fit: cover;
     object-fit: cover;
-    width: 100%;
+    width: 10%;
     height: 150%;
     margin-left: auto;
     margin-right: auto;
