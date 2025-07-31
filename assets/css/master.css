@@ -759,6 +759,10 @@ img {
     }
 }
 
+.navigation__logo-title br {
+    display: inline;
+}
+
 .navigation__logo-title {
     white-space: nowrap;
     font-size: 1.8rem;
@@ -819,34 +823,6 @@ img {
     top: 0;
     right: 0
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
